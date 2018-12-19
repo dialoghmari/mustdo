@@ -1,6 +1,6 @@
 # MustDo : Todo Node Express API
 
-[![dependencies Status](https://david-dm.org/terrestris/node-project-template/status.svg)](https://david-dm.org/terrestris/node-project-template) [![devDependencies Status](https://david-dm.org/terrestris/node-project-template/dev-status.svg)](https://david-dm.org/terrestris/node-project-template?type=dev) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![dependencies Status](https://david-dm.org/dialoghmari/mustdo/status.svg)](https://david-dm.org/dialoghmari/mustdo) [![devDependencies Status](https://david-dm.org/dialoghmari/mustdo/dev-status.svg)](https://david-dm.org/dialoghmari/mustdo?type=dev) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 A simple node express project template. This can be used as a starting point projects depending on API Rest Web-Services where the following is already
 preconfigured:
